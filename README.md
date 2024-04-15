@@ -1,1 +1,1 @@
-Este es un README bien hecho desde mi equipo
+Este es un README bien hecho desde mi equipo remoto
